@@ -1,0 +1,15 @@
+* Approaches
+** XGBoost
+*** http://xgboost.readthedocs.io/en/latest/get_started/
+** Random Forests
+*** http://scikit-learn.org/stable/modules/ensemble.html
+* Tools
+** TPOT pipeline optimization
+https://github.com/rhiever/tpot
+A good tool to find the best hyperparameters to maximise performance for a model
+** Cookiecutter Kaggle template
+https://github.com/uberwach/cookiecutter-kaggle
+Cookiecutter is a tool that creates python project setups based on a template, this is one for kaggle competitions, might be useful
+* Links
+** https://www.youtube.com/watch?v=lx_iDU4EVv4
+Good talk on Kaggle competitions generally, what tends to win. A bit dated now, still worth looking at random forests and gradient boosted forests as naive approaches to projects
